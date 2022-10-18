@@ -1,0 +1,7 @@
+{
+  "name": "suite",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
